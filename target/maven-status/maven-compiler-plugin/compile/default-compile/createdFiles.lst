@@ -1,0 +1,4 @@
+com\majingji\properties\UploadsProperties.class
+com\majingji\autoconfig\UploadsServiceAutoConfig.class
+com\majingji\service\UploadsService.class
+META-INF\spring-configuration-metadata.json

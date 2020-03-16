@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "com.majingji",
+      "type": "com.majingji.properties.UploadsProperties",
+      "sourceType": "com.majingji.properties.UploadsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.majingji.name",
+      "type": "java.lang.String",
+      "sourceType": "com.majingji.properties.UploadsProperties"
+    }
+  ],
+  "hints": []
+}
